@@ -1,5 +1,5 @@
 """
-main.py - třetí projekt do Engeto Online Python Akademie
+main.py - třetí projekt do Engeto Python Akademie
 Autor: Karel Nodes
 Email: k.nodes00@gmail.com
 """
