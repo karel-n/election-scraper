@@ -1,5 +1,3 @@
-# Třetí projekt – Engeto Online Python Akademie
-
 ## Popis projektu
 
 Tento Python skript slouží ke scrapování volebních výsledků z webu [volby.cz](https://www.volby.cz) pro volby do PSP ČR 2017. 
